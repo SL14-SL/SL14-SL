@@ -22,7 +22,7 @@ adaptive retraining, safe model releases and monitored cloud serving.
 
 ### [Sales Forecasting MLOps Platform](https://github.com/SL14-SL/mlops-sales-forecasting)
 
-Production-oriented demand forecasting with drift detection, automated
+Production-oriented sales forecasting with drift detection, automated
 retraining, safe model releases and monitored cloud serving.
 
 [View repository](https://github.com/SL14-SL/mlops-sales-forecasting) ·
