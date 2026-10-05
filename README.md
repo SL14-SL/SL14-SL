@@ -34,6 +34,18 @@ The project combines customer-level predictions with recommended actions and exp
 [View repository](https://github.com/SL14-SL/mlops-sales-forecasting) ·
 [Download one-page case study](https://github.com/SL14-SL/mlops-sales-forecasting/blob/main/docs/sales_forecasting_case_study.pdf)
 
+### [Reusable MLOps Project Template](https://github.com/SL14-SL/mlops-project-template)
+
+Copier-based project template providing a shared production-oriented foundation for time series forecasting and classification systems.
+
+It includes FastAPI serving, MLflow integration, portable serving releases, monitoring, CI/CD, security checks, Terraform infrastructure, Google Cloud deployment workflows, rollback procedures, and automated validation for both project variants.
+
+[View repository](https://github.com/SL14-SL/mlops-project-template)
+
+## Technology
+
+Python · FastAPI · MLflow · Prefect · Docker · GitHub Actions · Terraform · Google Cloud · Prometheus · Grafana
+
 ## Contact
 
 I'm interested in freelance projects where an existing ML model, notebook or prototype needs to become a reliable production system.
