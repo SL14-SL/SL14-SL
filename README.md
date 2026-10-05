@@ -1,29 +1,41 @@
 # Hi, I'm Steffen
 
-MLOps Engineer focused on production-oriented ML systems, model deployment, monitoring, retraining and cloud-native ML infrastructure.
+Freelance MLOps Engineer focused on turning existing forecasting and classification models into reliable, deployable and monitored production systems.
+
+I build the production layer around ML models: APIs, reproducible pipelines, model lifecycle workflows, monitoring, retraining, cloud infrastructure and operational documentation.
 
 ## Focus
 
-- ML model serving with FastAPI
-- Experiment tracking and model registry with MLflow
-- Training and retraining pipelines with Prefect
-- Monitoring with Prometheus/Grafana
-- Cloud deployment with Docker, Terraform and GCP
+- Model serving and prediction APIs with FastAPI
+- Experiment tracking and model lifecycle management with MLflow
+- Training and policy-driven retraining workflows with Prefect
+- Prediction logging, drift detection and performance monitoring
+- Containerized deployment with Docker and GitHub Actions
+- Cloud infrastructure with Terraform and Google Cloud
+- Portable and safely reversible model releases
 
 ## Featured Projects
 
-### [Customer Churn MLOps Platform](https://github.com/SL14-SL/mlops-churn-prediction)
+### [Production-Ready Classification & Decisioning MLOps Blueprint](https://github.com/SL14-SL/mlops-churn-prediction)
 
-Production-oriented churn prediction with business-aware retention decisions,
-adaptive retraining, safe model releases and monitored cloud serving.
+End-to-end reference implementation for time series forecasting, demonstrated through the Rossmann Store Sales use case.
+
+The project includes stateful time-series feature engineering, XGBoost training, MLflow model lifecycle management, FastAPI forecast serving, prediction logging, drift and forecast-performance monitoring, automated retraining, portable serving releases, and Terraform-based deployment to Google Cloud Run.
 
 [View repository](https://github.com/SL14-SL/mlops-churn-prediction) ·
 [Download one-page case study](https://github.com/SL14-SL/mlops-churn-prediction/blob/main/docs/churn_prediction_case_study.pdf)
 
-### [Sales Forecasting MLOps Platform](https://github.com/SL14-SL/mlops-sales-forecasting)
+### [Production-Ready Time Series Forecasting MLOps Blueprint](https://github.com/SL14-SL/mlops-sales-forecasting)
 
-Production-oriented sales forecasting with drift detection, automated
-retraining, safe model releases and monitored cloud serving.
+End-to-end reference implementation for classification and business decisioning, demonstrated through a customer churn use case.
+
+The project combines customer-level predictions with recommended actions and expected-value outputs. It includes FastAPI serving, MLflow model lifecycle workflows, champion/challenger promotion, prediction logging, drift detection, performance monitoring, policy-driven retraining, and cloud-ready infrastructure.
 
 [View repository](https://github.com/SL14-SL/mlops-sales-forecasting) ·
 [Download one-page case study](https://github.com/SL14-SL/mlops-sales-forecasting/blob/main/docs/sales_forecasting_case_study.pdf)
+
+## Contact
+
+I'm interested in freelance projects where an existing ML model, notebook or prototype needs to become a reliable production system.
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/92-steffen-lauterbach/)
