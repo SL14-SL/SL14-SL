@@ -22,18 +22,18 @@ A customer churn system combining predictions with recommended retention actions
 [View repository](https://github.com/SL14-SL/mlops-churn-prediction)
 
 ### Time Series Forecasting Blueprint
-A sales forecasting system with time-series features, XGBoost training, forecast serving, monitoring, and retraining workflows. Includes infrastructure and deployment workflows for Google Cloud Run.
+A sales forecasting system with repeatable training, model evaluation, API serving, monitoring, and retraining workflows. Deployment verified on Google Cloud and AWS, including persistent MLflow tracking and a tested model release switch and rollback.
 
 [View repository](https://github.com/SL14-SL/mlops-sales-forecasting)
 
 ### Reusable MLOps Project Template
-A Copier template for forecasting and classification projects with three configurable tiers. Provides reusable serving, model management, CI/CD, monitoring, and infrastructure components, validated across all six variants.
+A Copier template for forecasting and classification projects with three configurable tiers and a choice of AWS or Google Cloud. Provides reusable serving, model management, CI/CD, monitoring, and infrastructure components, tested across all twelve combinations.
 
 [View repository](https://github.com/SL14-SL/mlops-project-template)
 
 ## Technology
 
-Python · FastAPI · Streamlit · Ollama · sentence-transformers · MLflow · Prefect · Docker · GitHub Actions · Terraform · Google Cloud · Prometheus · Grafana
+Python · FastAPI · Streamlit · Ollama · sentence-transformers · MLflow · Prefect · Docker · GitHub Actions · Terraform · Google Cloud · AWS · Prometheus · Grafana
 
 ## Let's Work Together
 
