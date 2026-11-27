@@ -1,8 +1,12 @@
 # Hi, I'm Steffen
 
-I'm a freelance Python & AI Engineer building document assistants, natural-language data tools, and reliable ML systems.
+I'm a freelance Python & AI Engineer building document assistants,
+natural-language data tools, workflow automation, and end-to-end
+MLOps systems.
 
-I turn documents, structured data, and ML prototypes into applications with source references, tested behavior, reproducible workflows, and practical deployment options.
+I turn documents, structured data, and ML prototypes into
+applications with source references, tested behavior, reproducible
+workflows, and practical deployment options.
 
 ## Featured Projects
 
@@ -37,7 +41,11 @@ generation, evaluation, and Docker deployment.
 
 
 ### LLM Customer Segmentation Assistant
-A natural-language interface for exploring customer data and comparing segments. Includes request validation, clarification flows, explicit handling of unsupported filters, and end-to-end evaluation.
+
+A natural-language interface for customer analytics with validated
+read-only Text-to-SQL and agent-based segment comparisons.
+Includes clarification flows, controlled tool execution,
+deterministic reporting, end-to-end evaluation, and Docker deployment.
 
 [View repository](https://github.com/SL14-SL/llm-customer-segmentation-assistant)
 
