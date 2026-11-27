@@ -56,7 +56,7 @@ A Copier template for forecasting and classification projects with three configu
 
 ## Technology
 
-Python · FastAPI · Streamlit · Ollama · sentence-transformers · MLflow · Prefect · Docker · GitHub Actions · Terraform · Google Cloud · AWS · Prometheus · Grafana
+Python · FastAPI · Streamlit · Ollama · sentence-transformers · MLflow · Prefect · Docker · GitHub Actions · Terraform · Google Cloud · AWS · Prometheus · Grafana · n8n · DuckDB · OpenAI API
 
 ## Let's Work Together
 
